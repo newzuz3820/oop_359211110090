@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b1ccd726-5c14-4c83-ae59-b53013dd762d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oop_359211110090/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../oop_359211110090/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oop_359211110090/src/ooplab2/TestInputData.java" afterPath="$PROJECT_DIR$/../oop_359211110090/src/ooplab2/TestInputData.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../oop_359211110090/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -272,6 +271,14 @@
       <option name="presentableId" value="Default" />
       <updated>1511159358654</updated>
     </task>
+    <task id="LOCAL-00001" summary="input Data">
+      <created>1511168500383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511168500383</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -307,6 +314,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="input Data" />
+    <option name="LAST_COMMIT_MESSAGE" value="input Data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
