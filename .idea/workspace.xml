@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1ccd726-5c14-4c83-ae59-b53013dd762d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../oop_359211110090/src/ooplab3/TestSwitch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oop_359211110090/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../oop_359211110090/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b1ccd726-5c14-4c83-ae59-b53013dd762d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../oop_359211110090/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -372,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511770850223</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Switch lab3">
+      <created>1511772236479</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1511772236479</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -413,7 +417,8 @@
     <MESSAGE value="input Data" />
     <MESSAGE value="Testing input again" />
     <MESSAGE value="OOPlab3" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPlab3" />
+    <MESSAGE value="Switch lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Switch lab3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
